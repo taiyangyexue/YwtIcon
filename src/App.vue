@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    <ywt-icon />
+    <ywt-icon icon='icon-add'></ywt-icon>
   </div>
 </template>
 
