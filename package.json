@@ -1,6 +1,6 @@
 {
   "name": "ywt-icon",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "author": "yuwenting",
   "private": false,
   "keywords": "vue icon",
@@ -31,5 +31,9 @@
     "> 1%",
     "last 2 versions",
     "not dead"
+  ],
+  "files":[
+    "lib",
+    "bin"
   ]
 }
